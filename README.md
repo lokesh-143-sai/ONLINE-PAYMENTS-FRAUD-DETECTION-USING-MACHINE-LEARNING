@@ -9,7 +9,25 @@ Dataset Link: https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-det
 
 📂 Project Folder Structure:
 
-ONLINE PAYMENTS FRAUD DETECTION USING ML │ ├── data │ └── Sample Data.csv │ ├── Flask │ ├── static │ │ └── photo.png │ │ │ ├── templates │ │ ├── home.html │ │ ├── predict.html │ │ └── result.html │ │ │ ├── app.py │ └── model.pkl │ ├── training │ ├── Online_payment_Fraud_detection.ipynb │ └── model.pkl
+online payments fraud detection/
+│
+├── data/
+│   └── sampledata.csv
+│
+├── flask/
+|   |
+|   ├──static/
+|   |    └──photo.png
+│   ├── templates/
+│   │   ├── home.html
+│   │   ├── predict.html
+│   │   └── submit.html
+│   ├── app.py
+│   └── model.pkl
+│
+├── training/
+|   ├──model.pkl
+│   └── ONLINE PAYMENTS FRAUD DETECTION.ipynb
 
 💡 Key Features
 
